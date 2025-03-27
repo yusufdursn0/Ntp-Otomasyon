@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\serhat\source\repos\ntp otomasyonu\ntp otomasyonu\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\bitmişprojeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\haberler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\hesapmakine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\konum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\kurlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\personeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\pozlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\projeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\puantajh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\teklif.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\Ustalıklar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\şirket bilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formlar\şirketimiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
